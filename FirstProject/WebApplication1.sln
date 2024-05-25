@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLibrary", "MyLibrary\MyLi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{89F5FD77-4BC3-412D-837E-07A7972AE401}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{6AA1E4F7-BCF8-4A7C-906C-5E5EC9F338E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharePointPractice", "..\SharePointPractice\SharePointPractice\SharePointPractice.csproj", "{10DEB125-77F8-46C0-A156-D2ABD16720C4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +34,13 @@ Global
 		{89F5FD77-4BC3-412D-837E-07A7972AE401}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89F5FD77-4BC3-412D-837E-07A7972AE401}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89F5FD77-4BC3-412D-837E-07A7972AE401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AA1E4F7-BCF8-4A7C-906C-5E5EC9F338E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AA1E4F7-BCF8-4A7C-906C-5E5EC9F338E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AA1E4F7-BCF8-4A7C-906C-5E5EC9F338E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AA1E4F7-BCF8-4A7C-906C-5E5EC9F338E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10DEB125-77F8-46C0-A156-D2ABD16720C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10DEB125-77F8-46C0-A156-D2ABD16720C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10DEB125-77F8-46C0-A156-D2ABD16720C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10DEB125-77F8-46C0-A156-D2ABD16720C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

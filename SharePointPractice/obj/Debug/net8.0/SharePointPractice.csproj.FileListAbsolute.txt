@@ -1,0 +1,13 @@
+C:\Users\Eisenhower Yu\Workspace\csharp\SharePointPractice\obj\Debug\net8.0\SharePointPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eisenhower Yu\Workspace\csharp\SharePointPractice\obj\Debug\net8.0\SharePointPractice.csproj.CoreCompileInputs.cache
+C:\Users\Eisenhower Yu\Workspace\csharp\SharePointPractice\obj\Debug\net8.0\SharePointPractice.sourcelink.json
+C:\Users\Eisenhower Yu\Workspace\Csharp\SharePointPractice\bin\Debug\net8.0\SharePointPractice.exe
+C:\Users\Eisenhower Yu\Workspace\Csharp\SharePointPractice\bin\Debug\net8.0\SharePointPractice.deps.json
+C:\Users\Eisenhower Yu\Workspace\Csharp\SharePointPractice\bin\Debug\net8.0\SharePointPractice.runtimeconfig.json
+C:\Users\Eisenhower Yu\Workspace\Csharp\SharePointPractice\bin\Debug\net8.0\SharePointPractice.dll
+C:\Users\Eisenhower Yu\Workspace\Csharp\SharePointPractice\bin\Debug\net8.0\SharePointPractice.pdb
+C:\Users\Eisenhower Yu\Workspace\Csharp\SharePointPractice\obj\Debug\net8.0\SharePointPractice.dll
+C:\Users\Eisenhower Yu\Workspace\Csharp\SharePointPractice\obj\Debug\net8.0\refint\SharePointPractice.dll
+C:\Users\Eisenhower Yu\Workspace\Csharp\SharePointPractice\obj\Debug\net8.0\SharePointPractice.pdb
+C:\Users\Eisenhower Yu\Workspace\Csharp\SharePointPractice\obj\Debug\net8.0\SharePointPractice.genruntimeconfig.cache
+C:\Users\Eisenhower Yu\Workspace\Csharp\SharePointPractice\obj\Debug\net8.0\ref\SharePointPractice.dll

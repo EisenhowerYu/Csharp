@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eisenhower Yu\\Workspace\\C\\MyLibrary\\MyLibrary.csproj": {}
+    "C:\\Users\\Eisenhower Yu\\Workspace\\Csharp\\FirstProject\\MyLibrary\\MyLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eisenhower Yu\\Workspace\\C\\MyLibrary\\MyLibrary.csproj": {
+    "C:\\Users\\Eisenhower Yu\\Workspace\\Csharp\\FirstProject\\MyLibrary\\MyLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eisenhower Yu\\Workspace\\C\\MyLibrary\\MyLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Eisenhower Yu\\Workspace\\Csharp\\FirstProject\\MyLibrary\\MyLibrary.csproj",
         "projectName": "MyLibrary",
-        "projectPath": "C:\\Users\\Eisenhower Yu\\Workspace\\C\\MyLibrary\\MyLibrary.csproj",
+        "projectPath": "C:\\Users\\Eisenhower Yu\\Workspace\\Csharp\\FirstProject\\MyLibrary\\MyLibrary.csproj",
         "packagesPath": "C:\\Users\\Eisenhower Yu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eisenhower Yu\\Workspace\\C\\MyLibrary\\obj\\",
+        "outputPath": "C:\\Users\\Eisenhower Yu\\Workspace\\Csharp\\FirstProject\\MyLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Eisenhower Yu\\AppData\\Roaming\\NuGet\\NuGet.Config"

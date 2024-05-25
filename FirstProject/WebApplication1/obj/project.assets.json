@@ -481,11 +481,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eisenhower Yu\\Workspace\\C\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\Eisenhower Yu\\Workspace\\Csharp\\FirstProject\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\Eisenhower Yu\\Workspace\\C\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "C:\\Users\\Eisenhower Yu\\Workspace\\Csharp\\FirstProject\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\Eisenhower Yu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eisenhower Yu\\Workspace\\C\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\Eisenhower Yu\\Workspace\\Csharp\\FirstProject\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Eisenhower Yu\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -500,8 +500,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Eisenhower Yu\\Workspace\\C\\MyLibrary\\MyLibrary.csproj": {
-              "projectPath": "C:\\Users\\Eisenhower Yu\\Workspace\\C\\MyLibrary\\MyLibrary.csproj"
+            "C:\\Users\\Eisenhower Yu\\Workspace\\Csharp\\FirstProject\\MyLibrary\\MyLibrary.csproj": {
+              "projectPath": "C:\\Users\\Eisenhower Yu\\Workspace\\Csharp\\FirstProject\\MyLibrary\\MyLibrary.csproj"
             }
           }
         }
